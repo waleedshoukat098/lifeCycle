@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HomeScreenActivity</string>
+    <string name="go_back_to_first_mainactivity">Go Back to First MainActivity</string>
+</resources>
